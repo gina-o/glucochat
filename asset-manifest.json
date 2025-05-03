@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/glucochat/static/css/main.26780db1.css",
+    "main.js": "/glucochat/static/js/main.8d8b33f8.js",
+    "static/js/453.74837462.chunk.js": "/glucochat/static/js/453.74837462.chunk.js",
+    "index.html": "/glucochat/index.html",
+    "main.26780db1.css.map": "/glucochat/static/css/main.26780db1.css.map",
+    "main.8d8b33f8.js.map": "/glucochat/static/js/main.8d8b33f8.js.map",
+    "453.74837462.chunk.js.map": "/glucochat/static/js/453.74837462.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26780db1.css",
+    "static/js/main.8d8b33f8.js"
+  ]
+}
